@@ -11,10 +11,10 @@ This repository contains a data science project designed to analyze and predict 
 - **Development Environment:** The analysis and modeling were developed in Jupyter Notebooks and are presented as HTML files for seamless exploration and visualization.
 
 ## Repository Contents
-- **EDA_Supporting_Notebook:** Performs exploratory data analysis (EDA) to uncover patterns and relationships in song features.
-- **Clustering_Supporting_Notebook:** Applies clustering techniques to group songs based on feature similarities.
-- **Modeling_Supporting_Notebook:** Builds and evaluates predictive models using statsmodels to determine a song's popularity score.
-- **Main_Notebook**: Integrates all components (EDA, clustering and modeling) into a streamlined workflow, providing a cohesive summary of the analysis.
+- **notebooks/EDA_Supporting_Notebook:** Performs exploratory data analysis (EDA) to uncover patterns and relationships in song features.
+- **notebooks/Clustering_Supporting_Notebook:** Applies clustering techniques to group songs based on feature similarities.
+- **notebooks/Modeling_Supporting_Notebook:** Builds and evaluates predictive models using statsmodels to determine a song's popularity score.
+- **notebooks/Main_Notebook**: Integrates all components (EDA, clustering and modeling) into a streamlined workflow, providing a cohesive summary of the analysis.
 
 ## Getting Started
 1. **Clone the Repository:**
