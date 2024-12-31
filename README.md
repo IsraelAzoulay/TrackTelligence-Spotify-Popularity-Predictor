@@ -2,7 +2,7 @@
 This repository contains a data science project designed to analyze and predict the popularity of Spotify songs based on their audio features. The project follows a structured workflow, including exploratory data analysis (EDA), clustering and predictive modeling. The implementation adheres to the specific requirement of using `statsmodels` for model training and `scikit-learn` for preprocessing, providing a balance of statistical interpretability and modern analysis techniques.
 
 ## Key Features
-- **Data Source:** Spotify dataset containing audio features and metadata for songs, sourced from [Spotify Songs Dataset](https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-01-21/spotify_songs.csv).
+- **Data Source:** Spotify dataset containing audio features and metadata for songs, sourced from [Spotify Songs Dataset from TidyTuesday](https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-01-21/spotify_songs.csv).
 - **Framework:** Python-based analysis leveraging:
   - `pandas`, `matplotlib`, `seaborn` and more for data manipulation and visualization.
   - `scikit-learn` for preprocessing and evaluation.
@@ -14,11 +14,11 @@ This repository contains a data science project designed to analyze and predict 
 - **EDA_Supporting_Notebook:** Performs exploratory data analysis (EDA) to uncover patterns and relationships in song features.
 - **Clustering_Supporting_Notebook:** Applies clustering techniques to group songs based on feature similarities.
 - **Modeling_Supporting_Notebook:** Builds and evaluates predictive models using statsmodels to determine a song's popularity score.
-- **Main_Notebook**: Integrates all components (EDA, clustering, and modeling) into a streamlined workflow, providing a cohesive summary of the analysis.
+- **Main_Notebook**: Integrates all components (EDA, clustering and modeling) into a streamlined workflow, providing a cohesive summary of the analysis.
 
 ## Getting Started
 1. **Clone the Repository:**
-git clone https://github.com/YourGitHubUsername/TrackTelligence-Spotify-Popularity-Predictor.git
+git clone https://github.com/IsraelAzoulay/TrackTelligence-Spotify-Popularity-Predictor.git
 3. **Navigate to the Project Directory:**
 cd TrackTelligence-Spotify-Popularity-Predictor
 4. **Open the HTML Files:**
