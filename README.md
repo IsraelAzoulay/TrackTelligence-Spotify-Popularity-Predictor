@@ -17,14 +17,16 @@ This repository contains a data science project designed to analyze and predict 
 - **notebooks/Main_Notebook**: Integrates all components (EDA, clustering and modeling) into a streamlined workflow, providing a cohesive summary of the analysis.
 
 ## Getting Started
-1. **Clone the Repository:** git clone https://github.com/IsraelAzoulay/TrackTelligence-Spotify-Popularity-Predictor.git
-2. **Navigate to the Project Directory:** cd TrackTelligence-Spotify-Popularity-Predictor
+1. **Clone the Repository:**
+   git clone https://github.com/IsraelAzoulay/TrackTelligence-Spotify-Popularity-Predictor.git
+2. **Navigate to the Project Directory:**
+   cd TrackTelligence-Spotify-Popularity-Predictor
 3. **Access the Notebooks:**
 The notebooks are too large to preview directly on GitHub. You can download and view them locally by following these steps:
-- Go to the notebooks folder in the repository.
-- Click on the notebook you want to view (e.g., EDA_Supporting_Notebook.html).
-- When the raw data opens in a new window, press Ctrl + S (Windows/Linux) or Cmd + S (Mac) to save the file to your computer.
-- Open the saved file in your web browser to view it.
+  - Go to the notebooks folder in the repository.
+  - Click on the notebook you want to view (e.g., EDA_Supporting_Notebook.html).
+  - When the raw data opens in a new window, press Ctrl + S (Windows/Linux) or Cmd + S (Mac) to save the file to your computer.
+  - Open the saved file in your web browser to view it.
    
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
