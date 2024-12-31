@@ -29,7 +29,7 @@ Follow the steps below to clone the repository and access the notebooks locally:
 ### 1. Clone the Repository
 To get started, clone the repository to your local machine:
 ```bash
-git clone https://github.com/IsraelAzoulay/TrackTelligence-Spotify-Popularity-Predictor.git
+git clone! https://github.com/IsraelAzoulay/TrackTelligence-Spotify-Popularity-Predictor.git
 ```
 
 ### 2. Navigate to the Project Directory
