@@ -20,6 +20,7 @@ This repository contains a data science project designed to analyze and predict 
 1. **Clone the Repository:**
    
 git clone https://github.com/IsraelAzoulay/TrackTelligence-Spotify-Popularity-Predictor.git
+
 2. **Navigate to the Project Directory:**
 
 cd TrackTelligence-Spotify-Popularity-Predictor
