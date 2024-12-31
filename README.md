@@ -1,5 +1,5 @@
 # TrackTelligence: Spotify Popularity Predictor
-This repository contains a data science project designed to analyze and predict the popularity of Spotify songs based on their audio features. The project follows a structured workflow, including exploratory data analysis (EDA), clustering and predictive modeling. The implementation adheres to the specific requirement of using `statsmodels` for model training and `scikit-learn` for preprocessing, providing a balance of statistical interpretability and modern analysis techniques.
+This repository contains a data science project designed to analyze and predict the popularity of Spotify songs based on their audio features. The project follows a structured workflow, including exploratory data analysis (EDA), clustering and predictive modeling. The implementation adheres to a **specific requirement** of using `statsmodels` for model training and `scikit-learn` for preprocessing, providing a balance of statistical interpretability and modern analysis techniques.
 
 ## Key Features
 - **Data Source:** Spotify dataset containing audio features and metadata for songs, sourced from [Spotify Songs Dataset from TidyTuesday](https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-01-21/spotify_songs.csv).
